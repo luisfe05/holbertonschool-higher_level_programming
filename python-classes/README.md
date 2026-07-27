@@ -9,6 +9,7 @@
 | `2-square.py` | A `Square` class with `size` type and value validation. |
 | `3-square.py` | A `Square` class with a public method `area` that returns the square area. |
 | `4-square.py` | A `Square` class with getter and setter properties for `size`. |
+| `5-square.py` | A `Square` class with a `my_print` method to print the square using `#`. |
 
 ## Author
 Luis Gonzalez - Holberton School San Juan, Puerto Rico
