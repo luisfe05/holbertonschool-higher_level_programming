@@ -1,0 +1,39 @@
+==================================
+How to Use 5-text_indentation.py
+==================================
+
+This module provides the ``text_indentation(text)`` function.
+
+Usage
+=====
+
+Importing the function:
+    >>> text_indentation = __import__('5-text_indentation').text_indentation
+
+Basic usage with ending punctuation:
+    >>> text_indentation("Hello. How are you? I am fine:")
+    Hello.
+    <BLANKLINE>
+    How are you?
+    <BLANKLINE>
+    I am fine:
+    <BLANKLINE>
+
+Checking that spaces after punctuation are stripped:
+    >>> text_indentation("First sentence.   Second sentence?")
+    First sentence.
+    <BLANKLINE>
+    Second sentence?
+    <BLANKLINE>
+
+Testing non-string input (TypeError):
+    >>> text_indentation(123)
+    Traceback (most recent call last):
+        ...
+    TypeError: text must be a string
+
+Testing None input (TypeError):
+    >>> text_indentation(None)
+    Traceback (most recent call last):
+        ...
+    TypeError: text must be a string
