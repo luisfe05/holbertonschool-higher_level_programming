@@ -11,6 +11,7 @@
 | `4-rectangle.py` | A `Rectangle` class with a `__repr__` method to recreate instances via `eval()`. |
 | `5-rectangle.py` | A `Rectangle` class with a `__del__` method that prints a deletion message. |
 | `6-rectangle.py` | A `Rectangle` class with a `number_of_instances` class attribute tracker. |
+| `7-rectangle.py` | A `Rectangle` class with a customizable `print_symbol` class attribute. |
 
 ## Author
 Luis Gonzalez - Holberton School San Juan, Puerto Rico
