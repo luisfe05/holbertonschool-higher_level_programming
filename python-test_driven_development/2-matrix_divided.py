@@ -27,7 +27,14 @@ def matrix_divided(matrix, div):
     if div == 0:
         raise ZeroDivisionError("division by zero")
 
-    try:
-        return [[round(elem / div, 2) for elem in row] for row in matrix]
-    except (OverflowError, ValueError):
-        raise TypeError("div must be a number")
+    new_matrix = []
+    for row in matrix:
+        new_row = []
+        for elem in row:
+            res = elem / div
+            if res == float('inf') or res == float('-inf') or res != res:
+                new_row.append(res)
+            else:
+                new_row.append(round(res, 2))
+        new_matrix.append(new_row)
+    return new_matrix
