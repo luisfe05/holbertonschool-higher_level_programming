@@ -12,6 +12,7 @@
 | `5-rectangle.py` | A `Rectangle` class with a `__del__` method that prints a deletion message. |
 | `6-rectangle.py` | A `Rectangle` class with a `number_of_instances` class attribute tracker. |
 | `7-rectangle.py` | A `Rectangle` class with a customizable `print_symbol` class attribute. |
+| `8-rectangle.py` | A `Rectangle` class with a `bigger_or_equal` static method. |
 
 ## Author
 Luis Gonzalez - Holberton School San Juan, Puerto Rico
