@@ -11,6 +11,7 @@ This directory contains tasks for learning file handling, standard I/O, JSON ser
 | 2-append_write.py | Appends a string to the end of a UTF-8 text file and returns the number of characters added. |
 | 3-to_json_string.py | Returns the JSON representation of an object as a string. |
 | 4-from_json_string.py | Returns a Python object represented by a JSON string. |
+| 5-save_to_json_file.py | Writes an Object to a text file using a JSON representation. |
 
 ## Author
 Luis Gonzalez - Holberton School San Juan, Puerto Rico
