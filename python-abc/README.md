@@ -9,6 +9,7 @@
 | task_02_verboselist.py | VerboseList class extending list with notifications for modifications. |
 | task_03_countediterator.py | CountedIterator class that tracks iteration counts. |
 | task_04_flyingfish.py | FlyingFish class demonstrating multiple inheritance from Fish and Bird. |
+| task_05_dragon.py | Dragon class leveraging SwimMixin and FlyMixin. |
 
 ## Author
 
