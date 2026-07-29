@@ -1,0 +1,44 @@
+===========================
+How to use 1-my_list.py
+===========================
+
+This module defines a class `MyList` inheriting from `list`.
+
+Usage
+=====
+
+Importing the class:
+    >>> MyList = __import__('1-my_list').MyList
+
+Testing instantiation and inheritance:
+    >>> my_list = MyList()
+    >>> isinstance(my_list, list)
+    True
+    >>> print(my_list)
+    []
+
+Printing empty list:
+    >>> my_list.print_sorted()
+    []
+
+Adding elements and printing sorted:
+    >>> my_list.append(1)
+    >>> my_list.append(4)
+    >>> my_list.append(2)
+    >>> my_list.append(3)
+    >>> my_list.append(5)
+    >>> print(my_list)
+    [1, 4, 2, 3, 5]
+    >>> my_list.print_sorted()
+    [1, 2, 3, 4, 5]
+    >>> print(my_list)
+    [1, 4, 2, 3, 5]
+
+Testing with negative numbers:
+    >>> neg_list = MyList()
+    >>> neg_list.append(-5)
+    >>> neg_list.append(10)
+    >>> neg_list.append(0)
+    >>> neg_list.append(-2)
+    >>> neg_list.print_sorted()
+    [-5, -2, 0, 10]
