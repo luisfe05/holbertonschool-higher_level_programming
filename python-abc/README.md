@@ -8,6 +8,7 @@
 | task_01_duck_typing.py | Shape abstract class with Circle, Rectangle, and shape_info duck typing function. |
 | task_02_verboselist.py | VerboseList class extending list with notifications for modifications. |
 | task_03_countediterator.py | CountedIterator class that tracks iteration counts. |
+| task_04_flyingfish.py | FlyingFish class demonstrating multiple inheritance from Fish and Bird. |
 
 ## Author
 
