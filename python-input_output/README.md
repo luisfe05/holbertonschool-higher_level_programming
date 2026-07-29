@@ -14,6 +14,7 @@ This directory contains tasks for learning file handling, standard I/O, JSON ser
 | 5-save_to_json_file.py | Writes an Object to a text file using a JSON representation. |
 | 6-load_from_json_file.py | Creates an Object from a JSON file. |
 | 7-add_item.py | Script that adds all arguments to a Python list and saves them to a file. |
+| 8-class_to_json.py | Returns the dictionary description for JSON serialization of an object. |
 
 ## Author
 Luis Gonzalez - Holberton School San Juan, Puerto Rico
