@@ -16,6 +16,7 @@ This directory contains tasks for learning file handling, standard I/O, JSON ser
 | 7-add_item.py | Script that adds all arguments to a Python list and saves them to a file. |
 | 8-class_to_json.py | Returns the dictionary description for JSON serialization of an object. |
 | 9-student.py | Defines a Student class with attribute retrieval as a dictionary. |
+| 10-student.py | Defines a Student class with filtered attribute retrieval as a dictionary. |
 
 ## Author
 Luis Gonzalez - Holberton School San Juan, Puerto Rico
