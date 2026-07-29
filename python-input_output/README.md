@@ -18,6 +18,7 @@ This directory contains tasks for learning file handling, standard I/O, JSON ser
 | 9-student.py | Defines a Student class with attribute retrieval as a dictionary. |
 | 10-student.py | Defines a Student class with filtered attribute retrieval as a dictionary. |
 | 11-student.py | Defines a Student class capable of serializing to and deserializing from JSON. |
+| 12-pascal_triangle.py | Returns a list of lists of integers representing Pascal's triangle of n. |
 
 ## Author
 Luis Gonzalez - Holberton School San Juan, Puerto Rico
