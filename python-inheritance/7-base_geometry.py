@@ -1,23 +1,23 @@
 #!/usr/bin/python3
 """
-This module defines the BaseGeometry class.
+Module defining the BaseGeometry class.
 """
 
 
 class BaseGeometry:
     """
-    BaseGeometry class for geometric shapes.
+    Represent a base geometry object.
     """
 
     def area(self):
         """
-        Raises an Exception indicating that area() is not implemented.
+        Raise an Exception indicating area is not implemented.
         """
         raise Exception("area() is not implemented")
 
     def integer_validator(self, name, value):
         """
-        Validates value as a positive integer.
+        Validate if value is a positive integer.
         """
         if type(value) is not int:
             raise TypeError("{} must be an integer".format(name))
