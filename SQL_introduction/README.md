@@ -14,6 +14,7 @@ This directory contains tasks for exploring relational database management syste
 | **4. First table** | Script that creates a table called `first_table` with `id` and `name` attributes. | [4-first_table.sql](./4-first_table.sql) |
 | **5. Full description** | Script that prints the full description/schema of the table `first_table`. | [5-full_table.sql](./5-full_table.sql) |
 | **6. List all in table** | Script that lists all rows of the table `first_table`. | [6-list_values.sql](./6-list_values.sql) |
+| **7. First add** | Script that inserts a new row (`id = 89`, `name = 'Best School'`) into `first_table`. | [7-insert_value.sql](./7-insert_value.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
