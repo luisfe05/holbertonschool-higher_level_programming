@@ -15,6 +15,7 @@ This directory contains tasks for exploring relational database management syste
 | **5. Full description** | Script that prints the full description/schema of the table `first_table`. | [5-full_table.sql](./5-full_table.sql) |
 | **6. List all in table** | Script that lists all rows of the table `first_table`. | [6-list_values.sql](./6-list_values.sql) |
 | **7. First add** | Script that inserts a new row (`id = 89`, `name = 'Best School'`) into `first_table`. | [7-insert_value.sql](./7-insert_value.sql) |
+| **8. Count 89** | Script that displays the number of records with `id = 89` in `first_table`. | [8-count_89.sql](./8-count_89.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
