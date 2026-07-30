@@ -13,6 +13,7 @@ This directory contains tasks for exploring relational database management syste
 | **3. List tables** | Script that lists all the tables of a specified database. | [3-list_tables.sql](./3-list_tables.sql) |
 | **4. First table** | Script that creates a table called `first_table` with `id` and `name` attributes. | [4-first_table.sql](./4-first_table.sql) |
 | **5. Full description** | Script that prints the full description/schema of the table `first_table`. | [5-full_table.sql](./5-full_table.sql) |
+| **6. List all in table** | Script that lists all rows of the table `first_table`. | [6-list_values.sql](./6-list_values.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
