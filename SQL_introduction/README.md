@@ -23,6 +23,7 @@ This directory contains tasks for exploring relational database management syste
 | **13. Score too low** | Script that removes all records with a `score <= 5` in `second_table`. | [13-change_class.sql](./13-change_class.sql) |
 | **14. Average** | Script that computes the score average of all records in `second_table`. | [14-average.sql](./14-average.sql) |
 | **15. Number by score** | Script that lists the number of records with the same score in `second_table`. | [15-groups.sql](./15-groups.sql) |
+| **16. Say my name** | Script that lists records of `second_table` where name is not empty/NULL, ordered by score descending. | [16-no_link.sql](./16-no_link.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
