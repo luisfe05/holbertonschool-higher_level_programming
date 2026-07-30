@@ -20,6 +20,7 @@ This directory contains tasks for exploring relational database management syste
 | **10. List by best** | Script that lists all records of `second_table` ordered by score descending. | [10-top_score.sql](./10-top_score.sql) |
 | **11. Select the best** | Script that lists all records with a `score >= 10` in `second_table`. | [11-best_score.sql](./11-best_score.sql) |
 | **12. Cheating is bad** | Script that updates Bob's score to `10` in `second_table`. | [12-no_cheating.sql](./12-no_cheating.sql) |
+| **13. Score too low** | Script that removes all records with a `score <= 5` in `second_table`. | [13-change_class.sql](./13-change_class.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
