@@ -9,6 +9,7 @@ This directory contains tasks for exploring relational database management syste
 | --- | --- | --- |
 | **0. List databases** | Script that lists all databases of the MySQL server. | [0-list_databases.sql](./0-list_databases.sql) |
 | **1. Create a database** | Script that creates the database `hbtn_0c_0` if it does not already exist. | [1-create_database_if_missing.sql](./1-create_database_if_missing.sql) |
+| **2. Delete a database** | Script that deletes the database `hbtn_0c_0` if it exists. | [2-remove_database.sql](./2-remove_database.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
