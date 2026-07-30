@@ -11,6 +11,7 @@ This directory contains tasks for exploring relational database management syste
 | **1. Create a database** | Script that creates the database `hbtn_0c_0` if it does not already exist. | [1-create_database_if_missing.sql](./1-create_database_if_missing.sql) |
 | **2. Delete a database** | Script that deletes the database `hbtn_0c_0` if it exists. | [2-remove_database.sql](./2-remove_database.sql) |
 | **3. List tables** | Script that lists all the tables of a specified database. | [3-list_tables.sql](./3-list_tables.sql) |
+| **4. First table** | Script that creates a table called `first_table` with `id` and `name` attributes. | [4-first_table.sql](./4-first_table.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
