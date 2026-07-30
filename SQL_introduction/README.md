@@ -22,6 +22,7 @@ This directory contains tasks for exploring relational database management syste
 | **12. Cheating is bad** | Script that updates Bob's score to `10` in `second_table`. | [12-no_cheating.sql](./12-no_cheating.sql) |
 | **13. Score too low** | Script that removes all records with a `score <= 5` in `second_table`. | [13-change_class.sql](./13-change_class.sql) |
 | **14. Average** | Script that computes the score average of all records in `second_table`. | [14-average.sql](./14-average.sql) |
+| **15. Number by score** | Script that lists the number of records with the same score in `second_table`. | [15-groups.sql](./15-groups.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
