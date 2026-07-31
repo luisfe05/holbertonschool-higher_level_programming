@@ -26,6 +26,7 @@ This repository contains projects and assignments completed as part of the **Hig
 | **`SQL_more_queries`** | Advanced SQL: Joins, subqueries, constraints, foreign keys, and user permissions. |
 | **`python-object_relational_mapping`** | Connecting Python to MySQL using `MySQLdb` and `SQLAlchemy` ORM. |
 | **`restful-api`** | Fundamentals of building RESTful Web APIs, HTTP methods, status codes, and security. |
+| **`javascript-warm_up`** | JavaScript scripting fundamentals: variables (`const`/`let`), data types, `console.log`, control flow, and functions. |
 
 ---
 
