@@ -21,6 +21,7 @@ This project covers connecting Python to MySQL databases using `MySQLdb` (raw SQ
 | **11. Add a new state** | Script that adds the `State` object "Louisiana" to the database using SQLAlchemy. | [11-model_state_insert.py](./11-model_state_insert.py) |
 | **12. Update a state** | Script that changes the name of State with id = 2 to "New Mexico" using SQLAlchemy. | [12-model_state_update_id_2.py](./12-model_state_update_id_2.py) |
 | **13. Delete states** | Script that deletes all `State` objects containing letter `a` using SQLAlchemy. | [13-model_state_delete_a.py](./13-model_state_delete_a.py) |
+| **14. Cities in state** | Defines `City` model and lists all `City` objects with state names using SQLAlchemy. | [model_city.py](./model_city.py), [14-model_city_fetch_by_state.py](./14-model_city_fetch_by_state.py) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
