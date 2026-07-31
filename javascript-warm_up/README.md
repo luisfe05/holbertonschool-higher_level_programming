@@ -11,6 +11,7 @@ This project introduces JavaScript scripting fundamentals using Node.js. It cove
 | **1. 3 languages** | Write a script that prints three lines: `"C is fun"`, `"Python is cool"`, `"JavaScript is amazing"`, each via a separate `console.log`. | `1-multi_languages.js` |
 | **2. Arguments** | Write a script that prints a message depending on the number of arguments passed via `process.argv`: `"No argument"`, `"Argument found"`, or `"Arguments found"`. | `2-arguments.js` |
 | **3. Value of my argument** | Write a script that prints the first argument passed to it, or `"No argument"` if none was passed (without using `length`). | `3-value_argument.js` |
+| **4. Create a sentence** | Write a script that prints two arguments passed to it in the format `" is "`, using template literals. | `4-concat.js` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
