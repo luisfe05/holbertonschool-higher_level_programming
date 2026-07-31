@@ -14,6 +14,7 @@ This project covers connecting Python to MySQL databases using `MySQLdb` (raw SQ
 | **4. Cities by states** | Script that lists all cities from `hbtn_0e_4_usa` with their state names using `JOIN`. | [4-cities_by_state.py](./4-cities_by_state.py) |
 | **5. All cities by state** | Script that takes state name as argument and lists all its cities, safe from SQL injection. | [5-filter_cities.py](./5-filter_cities.py) |
 | **6. First state model** | Python file containing class definition of `State` and `Base` instance using SQLAlchemy. | [model_state.py](./model_state.py) |
+| **7. All states via SQLAlchemy** | Script that lists all `State` objects from database using SQLAlchemy. | [7-model_state_fetch_all.py](./7-model_state_fetch_all.py) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
