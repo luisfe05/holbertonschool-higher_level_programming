@@ -2,3 +2,6 @@
 *main.py
 __pycache__/
 *.pyc
+python-server_side_rendering/output_*.txt
+python-server_side_rendering/products.db-journal
+python-server_side_rendering/products_v2.db
