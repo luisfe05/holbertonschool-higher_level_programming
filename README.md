@@ -29,6 +29,7 @@ This repository contains projects and assignments completed as part of the **Hig
 | **`javascript-warm_up`** | JavaScript scripting fundamentals: variables (`const`/`let`), data types, `console.log`, control flow, and functions. |
 | **`javascript-dom_manipulation`** | DOM manipulation with JavaScript: selecting elements, updating styles/content, event listeners, and network requests (XmlHTTPRequest/Fetch). |
 | **`python-server_side_rendering`** | Server-side rendering with Flask and Jinja: templating, includes, loops/conditionals, and rendering data from JSON, CSV, and SQLite. |
+| **`python-everything_is_object`** | Python's object model: `id`/`type`, `==` vs `is`, mutable vs immutable, integer/string/tuple interning, and how arguments are passed to functions. |
 
 ---
 
