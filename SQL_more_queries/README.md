@@ -15,6 +15,7 @@ This directory contains tasks for working with advanced SQL features, user manag
 | **5. Unique ID** | Script that creates the table `unique_id` with a default `1` and `UNIQUE` constraint on `id`. | [5-unique_id.sql](./5-unique_id.sql) |
 | **6. States table** | Script that creates database `hbtn_0d_usa` and table `states` with `AUTO_INCREMENT` `PRIMARY KEY`. | [6-states.sql](./6-states.sql) |
 | **7. Cities table** | Script that creates database `hbtn_0d_usa` and table `cities` with `FOREIGN KEY` referencing `states(id)`. | [7-cities.sql](./7-cities.sql) |
+| **8. Cities of California** | Script that lists all cities of California using a subquery (without `JOIN`). | [8-cities_of_california_subquery.sql](./8-cities_of_california_subquery.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
