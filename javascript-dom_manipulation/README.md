@@ -8,6 +8,7 @@ This project covers selecting and manipulating HTML elements in the browser with
 | Task | Description | File |
 | :--- | :--- | :--- |
 | **0. Color Me** | Write a script that selects the `header` element with `document.querySelector` and sets its text color to red (`#FF0000`). | `0-script.js` |
+| **1. Click and turn red** | Write a script that turns the `header` text red (`#FF0000`) when the element with id `red_header` is clicked. | `1-script.js` |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
