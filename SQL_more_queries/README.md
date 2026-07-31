@@ -22,6 +22,7 @@ This directory contains tasks for working with advanced SQL features, user manag
 | **12. No genre** | Script that lists all TV shows without a genre linked using `LEFT JOIN` and `WHERE IS NULL`. | [12-no_genre.sql](./12-no_genre.sql) |
 | **13. Number of shows by genre** | Script that lists all genres and the number of shows linked to each. | [13-count_shows_by_genre.sql](./13-count_shows_by_genre.sql) |
 | **14. My genres** | Script that lists all genres of the show Dexter using joins. | [14-my_genres.sql](./14-my_genres.sql) |
+| **15. Only Comedy** | Script that lists all Comedy shows using joins. | [15-comedy_only.sql](./15-comedy_only.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
