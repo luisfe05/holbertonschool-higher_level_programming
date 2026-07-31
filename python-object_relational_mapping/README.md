@@ -18,6 +18,7 @@ This project covers connecting Python to MySQL databases using `MySQLdb` (raw SQ
 | **8. First state** | Script that prints the first `State` object from database using SQLAlchemy. | [8-model_state_fetch_first.py](./8-model_state_fetch_first.py) |
 | **9. Contains 'a'** | Script that lists all `State` objects containing letter `a` using SQLAlchemy. | [9-model_state_filter_a.py](./9-model_state_filter_a.py) |
 | **10. Get a state** | Script that prints id of `State` object matching name passed as argument using SQLAlchemy. | [10-model_state_my_get.py](./10-model_state_my_get.py) |
+| **11. Add a new state** | Script that adds the `State` object "Louisiana" to the database using SQLAlchemy. | [11-model_state_insert.py](./11-model_state_insert.py) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
