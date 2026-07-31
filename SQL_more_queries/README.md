@@ -14,6 +14,7 @@ This directory contains tasks for working with advanced SQL features, user manag
 | **4. ID can't be null** | Script that creates the table `id_not_null` with `id` defaulting to `1`. | [4-never_empty.sql](./4-never_empty.sql) |
 | **5. Unique ID** | Script that creates the table `unique_id` with a default `1` and `UNIQUE` constraint on `id`. | [5-unique_id.sql](./5-unique_id.sql) |
 | **6. States table** | Script that creates database `hbtn_0d_usa` and table `states` with `AUTO_INCREMENT` `PRIMARY KEY`. | [6-states.sql](./6-states.sql) |
+| **7. Cities table** | Script that creates database `hbtn_0d_usa` and table `cities` with `FOREIGN KEY` referencing `states(id)`. | [7-cities.sql](./7-cities.sql) |
 
 ## Author
 * **Luis Gonzalez** - Holberton School
